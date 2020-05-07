@@ -77,7 +77,6 @@
                                                 </subviews>
                                             </stackView>
                                         </subviews>
-                                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                                         <constraints>
                                             <constraint firstItem="HV1-wb-dUH" firstAttribute="top" secondItem="H8a-ks-zWf" secondAttribute="top" id="Fb2-j7-yv7"/>
                                             <constraint firstAttribute="bottom" secondItem="HV1-wb-dUH" secondAttribute="bottom" id="Tfe-iv-qQU"/>
@@ -126,7 +125,6 @@
                                                 </subviews>
                                             </stackView>
                                         </subviews>
-                                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                                         <constraints>
                                             <constraint firstAttribute="trailing" secondItem="0ll-kX-hPm" secondAttribute="trailing" id="3T5-rh-Dfz"/>
                                             <constraint firstAttribute="bottom" secondItem="0ll-kX-hPm" secondAttribute="bottom" id="B73-gE-XkY"/>
@@ -175,7 +173,6 @@
                                                 </subviews>
                                             </stackView>
                                         </subviews>
-                                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                                         <constraints>
                                             <constraint firstItem="BGZ-cK-tO0" firstAttribute="leading" secondItem="P1A-if-WRi" secondAttribute="leading" id="A2w-9O-gMB"/>
                                             <constraint firstItem="BGZ-cK-tO0" firstAttribute="top" secondItem="P1A-if-WRi" secondAttribute="top" id="YfN-YE-LFe"/>
@@ -224,7 +221,6 @@
                                                 </subviews>
                                             </stackView>
                                         </subviews>
-                                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                                         <constraints>
                                             <constraint firstItem="Rg7-ZD-t26" firstAttribute="leading" secondItem="d13-ex-qNc" secondAttribute="leading" id="fJH-5P-Pcr"/>
                                             <constraint firstItem="Rg7-ZD-t26" firstAttribute="top" secondItem="d13-ex-qNc" secondAttribute="top" id="kEd-UX-MrG"/>
@@ -271,7 +267,6 @@
                                                                 </subviews>
                                                             </stackView>
                                                         </subviews>
-                                                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                                                         <constraints>
                                                             <constraint firstItem="JZi-aO-1ZX" firstAttribute="top" secondItem="9Vc-ZZ-fvG" secondAttribute="top" id="Jb4-n6-bcf"/>
                                                             <constraint firstAttribute="trailing" secondItem="JZi-aO-1ZX" secondAttribute="trailing" id="PCq-rH-r8L"/>
@@ -282,7 +277,6 @@
                                                 </subviews>
                                             </stackView>
                                         </subviews>
-                                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                                         <constraints>
                                             <constraint firstItem="spM-sb-wwT" firstAttribute="leading" secondItem="JFU-x7-9sc" secondAttribute="leading" id="Kqc-5k-hNP"/>
                                             <constraint firstItem="spM-sb-wwT" firstAttribute="top" secondItem="JFU-x7-9sc" secondAttribute="top" id="bPJ-Ja-PR5"/>
